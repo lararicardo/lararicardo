@@ -15,11 +15,11 @@
 ```
 
 <br />
-<img align="center" alt="Ricardo Rafael Lara Gomes' Github Stats" src="https://github-readme-stats.vercel.app/api?username=lararicardo&show_icons=true&hide_border=true&count_private=true&theme=chartreuse-dark" />
+<img align="center" alt="Ricardo Rafael Lara Gomes' Github Stats" src="https://github-readme-stats.vercel.app/api?username=lararicardo&show_icons=true&hide_border=true&count_private=true&theme=blueberry" />
 
 <br />  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lararicardo&hide=html&theme=chartreuse-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lararicardo&hide=html&theme=blueberry&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### 📫 How to reach me:
